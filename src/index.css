@@ -1,0 +1,18 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    margin-top: 20vh;
+}
+input{
+    height: 2em;
+    width: 23em;
+    border-radius: 5px;
+    border-width: 1px;
+}
+label{
+   margin-top: 10px;
+}
+
+  
